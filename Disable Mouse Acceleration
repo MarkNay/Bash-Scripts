@@ -1,0 +1,5 @@
+#!/bin/bash
+
+#Disables Mouse Acceleration
+#Not Guaranteed to Work Outside of Ubuntu 16.04
+xset m 00
